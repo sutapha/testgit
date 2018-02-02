@@ -13,4 +13,8 @@ hello mustafa!!
 >>>>>>> mustafa second commit
 
 
+<<<<<<< HEAD
 oouii
+=======
+ma ligne
+>>>>>>> second file
