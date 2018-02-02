@@ -13,4 +13,8 @@ hello mustafa!!
 >>>>>>> mustafa second commit
 
 
+<<<<<<< HEAD
 ma other modif
+=======
+ma line two
+>>>>>>> mySecondBranch
