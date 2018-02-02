@@ -14,7 +14,11 @@ hello mustafa!!
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 oouii
 =======
 ma ligne
 >>>>>>> second file
+=======
+ma line two
+>>>>>>> test conflit
